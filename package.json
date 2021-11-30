@@ -17,5 +17,5 @@
   "description": "typescript + eslint + yarn",
   "main": "build/index.js",
   "author": "sourTaste000",
-  "license": "MIT"
+  "license": "Unlicense"
 }
